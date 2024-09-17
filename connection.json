@@ -1,0 +1,9 @@
+{
+  "id": "testConnectionId",
+  "userAccountId": "testUserAccountId",
+  "oauthToken": {
+    "accessToken": "PJY5Z_I_sfZqw7DJ1dMNbNLI43qq5-AiGWz77s0h6-M",
+    "refreshToken": "7Co61RrTh7_CfU8JzKjK9Ddfg67dxPdE1BJr9NTrdm0"
+  },
+  "input": {}
+}
