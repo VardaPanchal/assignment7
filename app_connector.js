@@ -12,8 +12,8 @@ const app = {
   webhook_verification_required: false,
   internal: false,
   connection: {
-    client_id: "-NWAr95j1rr8mAKa1kgF052XFAXJgu_IdhQN-0nxNlg",
-    client_secret: "5rOtcvWgfaI08lj_Vp_sDSxGmoxr1r4XGHFAgY0r3U4",
+    client_id: "ADD YOUR APPLICATION ID",
+    client_secret: "ADD YOUR APPLICATION SECRET",
     redirect_uri: "https://proxy.quickwork.co.in/gumroad/code",
     authorization: {
       type: "oauth_2",
